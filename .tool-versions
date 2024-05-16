@@ -1,0 +1,4 @@
+terragrunt 0.54.11
+terraform 1.5.5
+yq 4.43.1
+pre-commit 3.3.3

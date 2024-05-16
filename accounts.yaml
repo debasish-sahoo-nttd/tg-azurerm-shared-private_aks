@@ -1,0 +1,5 @@
+# Environment to ADO Service connection mapping
+prod: "ado-sp"
+qa: "ado-sp"
+sandbox: "ado-sp"
+uat: "ado-sp"
